@@ -19,7 +19,7 @@ export class ContactManagerComponent implements OnInit{
   ngOnInit(): void{
     this.loading=true;
     this.cantService.getAllContacts().subscribe((data:myContact[])=>{
-      this.contacts
+      this.contacts;
     })
   }
-    
+}
