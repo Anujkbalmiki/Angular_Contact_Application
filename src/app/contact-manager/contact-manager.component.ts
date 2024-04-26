@@ -22,5 +22,3 @@ export class ContactManagerComponent implements OnInit{
       this.contacts;
     })
   }
-}
-}
