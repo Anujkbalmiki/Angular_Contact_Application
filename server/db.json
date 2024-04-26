@@ -1,0 +1,80 @@
+{
+    "contacts":[
+        {
+            "id":"c1",
+            "name":"John Doe",
+            "company":"hello",
+            "email":"xycmail.com",
+            "title":"Admin",
+            "mobile":"9876543210",
+            "photo":"https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+            "groupId":"2"
+        },
+        {
+            "id":"c2",
+            "name":"Jason Denver",
+            "company":"Hola",
+            "email":"abcmail.com",
+            "title":"Executive",
+            "mobile":"9856543210",
+            "photo":"https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+            "groupId":"2"
+        },
+        {
+            "id":"c3",
+            "name":"Ryan",
+            "company":"Kristian",
+            "email":"xycmail.com",
+            "title":"Network Engineer",
+            "mobile":"9876543330",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkVsRNVJ7O7xNGK7IXtRwchi4NsKzUUdPMMcmIdbDKH_x6DKXR2EQGWrBiM8KKga7Ey0&usqp=CAU",
+            "groupId":"1"
+        },
+        {
+            "id":"c3",
+            "name":"Cristian Drew",
+            "company":"Welcome",
+            "email":"rtsimail.com",
+            "title":"Staff",
+            "mobile":"9878943210",
+            "photo":"https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+            "groupId":"5"
+        },
+        {
+            "id":"c5",
+            "name":"Lily",
+            "company":"Organisation",
+            "email":"lilyamail.com",
+            "title":"Administrative ",
+            "mobile":"9876536210",
+            "photo":"https://static.vecteezy.com/system/resources/thumbnails/001/993/889/small/beautiful-latin-woman-avatar-character-icon-free-vector.jpg",
+            "groupId":"6"
+        }
+    ],
+    "groups":[
+        {
+            "id":"1",
+            "name":"Collegue"
+        },
+        {
+            "id":"2",
+            "name":"Family"
+        },
+        {
+            "id":"3",
+            "name":"Friend"
+        },
+        {
+            "id":"4",
+            "name":"Service"
+        },
+        {
+            "id":"5",
+            "name":"Collegue"
+        },
+        {
+            "id":"6",
+            "name":"Social"
+        }
+    ]
+}
